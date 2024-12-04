@@ -1,0 +1,52 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Email Update -->
+    <EditText
+        android:id="@+id/newEmailField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter New Email"
+        android:inputType="textEmailAddress" />
+
+
+    <Button
+        android:id="@+id/updateEmailButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:minHeight="48dp"
+        android:minWidth="48dp"
+        android:text="Update Email" />
+
+
+    <!-- Password Update -->
+    <EditText
+        android:id="@+id/newPasswordField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter New Password"
+        android:inputType="textPassword"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/updatePasswordButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:minHeight="48dp"
+        android:minWidth="48dp"
+        android:text="Update Password" />
+    <EditText
+        android:id="@+id/currentPasswordField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Current Password"
+        android:inputType="textPassword"
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>

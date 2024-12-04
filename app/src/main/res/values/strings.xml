@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">EveSafe</string>
+    <string name="welcome_message">Welcome to EveSafe</string>
+    <string name="login_with_email">Login with Email</string>
+    <string name="login_with_phone">Login with Phone</string>
+    <string name="new_register">New User? Register Here</string>
+    <string name="background">Register</string>
+    <string name="email_icon">Register</string>
+    <string name="phone_icon">Register</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="nameField">Verify OTP</string>
+    <string name="emailField">Verify OTP</string>
+    <string name="phoneField">Verify OTP</string>
+    <string name="passwordField">Verify OTP</string>
+    <string name="currentPasswordField">Verify OTP</string>
+    <string name="newEmailField">Verify OTP</string>
+    <string name="newPasswordField">Verify OTP</string>
+    <string name="updateEmailButton">Verify OTP</string>
+    <string name="updatePasswordButton">Verify OTP</string>
+    <string name="updateProfileButton" tools:ignore="DuplicateDefinition">Verify OTP</string>
+    <string name="logoutButton">Verify OTP</string>
+    <string name="click_here_to_reset"> </string>
+    <string name="nameView" >Verify OTP</string>
+    <string name="phoneView">Verify OTP</string>
+    <string name="emailView" >Verify OTP</string>
+    <string name="textView_name" >Verify OTP</string>
+    <string name="textView_email">Verify OTP</string>
+    <string name="textView_dob" >Verify OTP</string>
+    <string name="recyclerView_users">Verify OTP</string>
+    <string name="register_full_name" >Verify OTP</string>
+    <string name="register_email" >Verify OTP</string>
+    <string name="register_address">Verify OTP</string>
+    <string name="register_dob" >Verify OTP</string>
+    <string name="register_phone">Verify OTP</string>
+    </resources>
